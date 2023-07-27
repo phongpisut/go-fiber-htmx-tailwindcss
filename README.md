@@ -10,7 +10,7 @@ docs
 - https://docs.gofiber.io/guide/templates
 
 ```
-> git clone ..
+> git clone https://github.com/phongpisut/go-fiber-htmx-tailwindcss.git
 > go install github.com/cosmtrek/air@latest
 > go mod tidy
 > air
