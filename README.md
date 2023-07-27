@@ -1,5 +1,8 @@
 # Simple Go Fiber + Air + Htmx + TailwindCSS
 
+![image](https://github.com/phongpisut/go-fiber-htmx-tailwindcss/assets/93273781/a67b23a5-2d76-43b6-bb20-5092a73006e4)
+
+
 docs
 
 - https://github.com/cosmtrek/air
